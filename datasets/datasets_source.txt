@@ -1,0 +1,8 @@
+The datasets used in the project are:
+  1. olist_orders_dataset.csv
+  2. olist_order_items_dataset.csv
+  3. olist_products_dataset.csv
+  4. product_category_name_translation.csv
+  5. olist_customers_dataset.csv
+
+All the datasets used can be found on kaggle official dataset source (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
