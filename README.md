@@ -40,7 +40,7 @@ This project addresses:
 This project builds on prior data transformation work:
 
 🔗 **Data Wrangling Repository:**
-https://github.com/RaghavBhardwaj18/olist-ecommerce-data-wrangling
+https://github.com/RaghavBhardwaj18/olist-brazillian-ecommerce-data-wrangling
 
 * Merged multiple datasets into a unified structure
 * Derived `total_value = price + freight_value`
